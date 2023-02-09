@@ -42,3 +42,15 @@ body {
    line-height: 18px;
    margin: 33px;
  }
+
+ #notice {
+     color: green;
+ }
+
+ .parent {
+     display: flex;
+ }
+
+ .child {
+     padding: 0 4px;
+ }
